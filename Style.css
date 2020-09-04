@@ -1,0 +1,23 @@
+h1{
+    color:#2C1EF6;
+  
+}
+.Menu{
+    border:solid;
+    background-color:#FFABF3;
+    display: flex;
+    justify-content:space-between ;
+}
+.Heading{
+    color:#FFD700;
+    border:solid;
+    background-color:#F948FF;
+    display: flex;
+    justify-content:space-between ;
+}
+a:link{
+    color:white;
+}
+a:visited{
+    color:#f7fb0a;
+}
